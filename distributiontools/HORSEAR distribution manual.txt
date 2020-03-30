@@ -1,0 +1,15 @@
+
+Create HORSE AR distribution: 
+
+http://pyinstaller.readthedocs.io/en/stable/usage.html
+
+1. Install pyinstaller
+
+2. To create specfile Run the follwoing in cmd:
+- cd C:\HORSEAR
+- pyinstaller ARmain.py
+
+Or run spec file
+
+- pyinstaller main.spec
+

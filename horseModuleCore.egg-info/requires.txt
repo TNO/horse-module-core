@@ -1,0 +1,6 @@
+
+[jsonpickle]
+jsonpickle>=0.1
+
+[websocket-client]
+websocket>=0.1
