@@ -11,11 +11,11 @@ import logging.handlers
 
 import os
     
-def ARLogger(log_filename = 'logs\log'):
+def ARLogger(log_filename = 'log.txt'):
     
-    if not os.path.exists('logs'):
+    # if not os.path.exists('logs'):
         
-        os.makedirs('logs')
+    #     os.makedirs('logs')
     
     fmt = '%(asctime)s %(levelname)s %(message)s'
     datefmt = '%Y-%m-%d %H:%M:%S'
